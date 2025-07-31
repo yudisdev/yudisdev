@@ -11,6 +11,3 @@ I’m a Frontend Developer based in Indonesia 🌍
 ## 📫 Contact Me
 📧 Email: inyomanyudistira33@gmail.com  
 
-## 📫 Social media
-
-[![Instagram]([https://img.shields.io/badge/@yudis.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yudis.dev](https://www.instagram.com/yudistira77._?igsh=MTR5cTdzc2d5MHA4MA==))
