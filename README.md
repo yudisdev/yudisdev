@@ -16,7 +16,7 @@ I’m a Frontend Developer based in Indonesia 🌍
 📧 Email: inyomanyudistira33@gmail.com  
 
 
-## Github Start
+## 📊Github Start
 ![Yudis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yudisdev&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yudisdev&layout=compact&theme=tokyonight)
