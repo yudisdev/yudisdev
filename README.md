@@ -2,6 +2,9 @@
 
 I’m a Frontend Developer based in Indonesia 🌍
 
+## Social Media
+
+
 ## 🚀 Tech Stack
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
@@ -11,4 +14,7 @@ I’m a Frontend Developer based in Indonesia 🌍
 
 ## 📫 Contact Me
 📧 Email: inyomanyudistira33@gmail.com  
+
+![Yudis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yudisdev&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yudisdev&layout=compact&theme=tokyonight)
 
