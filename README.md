@@ -2,8 +2,8 @@
 
 I’m a Frontend Developer based in Indonesia 🌍
 
-## Social Media
-
+## 📱Social Media
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yudistira77._)
 
 ## 🚀 Tech Stack
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
